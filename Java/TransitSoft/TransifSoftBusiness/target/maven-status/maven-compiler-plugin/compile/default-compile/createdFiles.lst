@@ -1,0 +1,4 @@
+transitsoft\business\InfraccionBO.class
+transitsoft\business\mappers\Mapper.class
+transitsoft\business\CapturaBO.class
+transitsoft\business\mappers\CapturaToInfraccionMapper.class
