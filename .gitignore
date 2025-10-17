@@ -3,3 +3,5 @@
 /Java/TransitSoft/TransitSoftModel/target/
 /Java/TransitSoft/TransitSoftPersistance/target/
 /Java/TransitSoft/TransitSoftPersistance/nbproject/
+/Java/TransitSoft/TransitSoftDBManager/src/main/resources/jdbc.properties
+/Java/TransitSoft/TransitSoftBussines/target/
